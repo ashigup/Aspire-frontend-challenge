@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 Clone this github repo using :
-## git clone https://github.com/ashigup/Aspire-frontend-challenge.git
+### `git clone https://github.com/ashigup/Aspire-frontend-challenge.git`
 
 Move inside Aspire-frontend-challenge using:
-## cd Aspire-frontend-challenge
+### `cd Aspire-frontend-challenge`
 
 In the project directory, you can run:
 
@@ -20,13 +20,8 @@ It install all the required node packages.\
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Note: Please select 414 X 736 dimension for best view.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
