@@ -1,7 +1,5 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 
 Clone this github repo using :
 ### `git clone https://github.com/ashigup/Aspire-frontend-challenge.git`
