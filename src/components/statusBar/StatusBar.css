@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.statusbar{
+    height: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+}
+.battery{
+    display: flex;
+}
+.net-wifi{
+    display: flex;
+}

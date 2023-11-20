@@ -1,0 +1,109 @@
+.card-info {
+    margin-top: 64px;
+    height: 892px;
+    background-color: #FFFFFF;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    position: sticky;
+    z-index: 999;
+  }
+  .card-ops {
+    height: 116px;
+    background-color: #edf3ff;
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    
+  }
+  
+.card-footer{
+    height: 56px;
+    background-color: #FFFFFF;
+    position: fixed;
+    top: 680px;
+    width: 100vw;
+    box-shadow: 0 -3px 6px #00000014;
+
+}
+.crud-ops-container{
+    width: 360px;
+    height: 75px;
+    margin-top: 20px;
+    margin-left: 27px;
+    border-top: 20px solid transparent;
+    display: flex;
+    justify-content: space-between;
+}
+.ops{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 75px;
+}
+.ops-logo{
+    width: 32px;
+    height: 32px;
+}
+.ops-text{
+    width: 60px;
+    height: 40px;
+    color: #0C365A;
+    font-size: 13px;
+    margin-top: 7px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.card-details{
+    width: 366px;
+    height: 72px;
+    margin-top: 24px;
+    background-color: #FAFCFF;
+    margin-left: 24px;
+    border-radius: 8px;
+    border: 1px solid #F5F5F5;
+}
+.details-header{
+    width: 318;
+    height: 24px;
+    display: flex;
+    margin-top: 24px;
+    margin-left: 24px;
+}
+.details-text{
+    font-size: 14px;
+    color: #0C365A;
+    margin-left: 12px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+}
+.down-arrow{
+    margin-left: 182px;
+}
+.recent-trans{
+    width: 318;
+    height: 24px;
+    display: flex;
+    margin-top: 24px;
+    margin-left: 24px;
+}
+
+.trans-text{
+    font-size: 14px;
+    color: #0C365A;
+    margin-left: 12px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    width: max-content;
+}
+.up-arrow{
+    margin-left: 128px;
+}

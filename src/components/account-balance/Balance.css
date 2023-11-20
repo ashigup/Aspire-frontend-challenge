@@ -1,0 +1,80 @@
+.balance{
+    margin-top: 31px;
+    margin-left: 24px;
+    margin-right: 24px;
+    height: 61px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.text-and-logo{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    position: relative;
+    margin-top: -15px;
+}
+.balance-text{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.balance-and-add-card{
+    display: flex;
+    justify-content: space-between;
+}
+.symbol-money{
+    display: flex;
+    align-items: end;
+}
+.dollar-symbol{
+    width: 40px;
+    height: 22px;
+    background-color: #01D167;
+    border-radius: 4px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.money{
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 24px;
+}
+.add-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-text{
+    font-size: 13px;
+    margin-left: 6px;
+    color: #23CEFD;
+    font-weight: bold;
+}
+
+.all-card-header{
+    margin-top: 26px;
+    margin-left: 24px;
+    margin-right: 24px;
+    display: flex;
+}
+
+.all-cards{
+    text-decoration: underline #23CEFD 2px;
+    text-underline-position: under;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.company-cards-text{
+    font-size: 13px;
+    color: #FFFFFF;
+    opacity: 50%;
+    margin-left: 31px;
+    font-weight: lighter;
+}

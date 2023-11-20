@@ -1,0 +1,57 @@
+.slick-dots {
+  display: flex;
+  align-items: center;
+}
+
+.slick-dots li {
+  margin: 0 5px; 
+  position: relative;
+}
+
+.slick-dots li.slick-active button::before {
+  width: 16px; 
+  height: 8px; 
+  border-radius: 8px; 
+  background-color: #01D167;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: block;
+}
+
+.slick-dots li button::before {
+  content: '';
+  width: 8px; 
+  height: 8px; 
+  border-radius: 8px; 
+  background-color: gray;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: block;
+}
+
+.slick-dots li button {
+  width: 8px;
+}
+
+.slick-dots li.slick-active button {
+  visibility: visible;
+}
+
+
+
+.side-card{
+  height: 200px;
+  width: 16px;
+  background-color: #536DFF;
+  border-radius: 12px;
+  margin-left: 398px;
+  margin-top: -220px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  opacity: 50%;
+  position: sticky;
+}

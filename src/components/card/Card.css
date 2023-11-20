@@ -1,0 +1,100 @@
+.card{
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+}
+
+.credit-card{
+    margin-left: 24px;
+    height: 220px;
+    width: 358px;
+    background-color: #01D167;
+    border-radius: 12px;
+    position: relative;
+    top: -13px;
+}
+.show-number{
+    width: 151px;
+    height: 40px;
+    background-color: #FFFFFF;
+    color: #01D167;
+    border-radius: 6px 6px 0 0;
+    align-self: flex-end;
+    margin-right: 32px;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+}
+.eye-logo{
+    margin-bottom: 13px;
+}
+.show-number-text{
+    margin-bottom: 13px;
+    margin-left: 5px;
+}
+.cards{
+    display: flex;
+}
+
+.aspire-logo{
+    width: 74px;
+    height: 21px;
+    margin-top: 26px;
+    margin-left: 260px;
+}
+.name{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 24px;
+    margin-left: 24px;
+}
+.card-number{
+    margin-top: 24px;
+    margin-left: 24px;
+    font-size: 14px;
+    width: 264px;
+    display: flex;
+    justify-content: space-between;
+}
+.circle{
+    height: 8px;
+    width: 8px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+}
+.first-four{
+    display: flex;
+    width: 50px;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+.year{
+    font-size: 14px;
+    font-weight: bold;
+}
+.expire-cvv{
+    display: flex;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 13px;
+    margin-left: 24px;
+}
+.expire{
+    margin-right: 30px;
+}
+.cvv{
+    display: flex;
+}
+.asterisk{
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 4px;
+}
+.visa{
+    display: flex;
+   align-items: end;
+   margin-left: 275px;
+   margin-bottom: 24px;
+}
