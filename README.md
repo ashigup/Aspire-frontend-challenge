@@ -2,13 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
 Clone this github repo using :
-git clone https://github.com/ashigup/Aspire-frontend-challenge.git
+## git clone https://github.com/ashigup/Aspire-frontend-challenge.git
 
 Move inside Aspire-frontend-challenge using:
-cd Aspire-frontend-challenge
+## cd Aspire-frontend-challenge
 
 In the project directory, you can run:
 
